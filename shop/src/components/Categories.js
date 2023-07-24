@@ -29,7 +29,6 @@ export class Categories extends Component {
           key: 'armchair',
           name: 'кресла'
         },
-      
       ]
     };
   }
